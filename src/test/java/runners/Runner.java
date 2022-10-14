@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         glue = "stepDefinitions",
-        tags = "@PracticeAmazon", // İki tagı aynı anda çalıştırmak istersek or kullanırız.
+        tags = "@practiceClick", // İki tagı aynı anda çalıştırmak istersek or kullanırız.
         dryRun = false
 )
 
