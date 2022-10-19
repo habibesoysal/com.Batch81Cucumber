@@ -1,5 +1,5 @@
 Feature: US006 kullanici amazonda istedigi kelimeleri aratir
-
+@negative
   Scenario Outline: TC01 Kullanici istedigi kelimeleri aratir
 
     Given kullanici amazon sayfasina gider
