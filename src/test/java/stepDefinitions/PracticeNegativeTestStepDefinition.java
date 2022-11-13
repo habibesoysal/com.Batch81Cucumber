@@ -30,3 +30,5 @@ public class PracticeNegativeTestStepDefinition {
     }
     @Then("Authentication information not correct uyarisini dogrular")
     public void authentication_information_not_correct_uyarisini_dogrular() {
+    }
+    }
